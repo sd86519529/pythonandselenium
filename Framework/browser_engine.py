@@ -1,7 +1,12 @@
 import configparser
 from selenium import webdriver
 import os
+
+from selenium.common.exceptions import TimeoutException
+
 from Framework.logger import Logger
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
 '''
 browser_engine(浏览器引擎类) 此类通过读取配置文件来打开设置的浏览器以及规定的url
@@ -31,12 +36,12 @@ class BrowserEngine(object):
         读取配置文件获得其设置的url和browser
         '''
         config = configparser.ConfigParser()  # 实例化读取ini配置文件的类
-        config.read(self.Config_path)  # 读取ini文件
+        config.read(self.Config_path, encoding='utf-8')  # 读取ini文件
         browser = config.get('browserType', 'browserKey')
         logger.info('you select browser is %s' % browser)
         url = config.get('ServerType', 'URL')
         logger.info('you select URL is %s' % url)
-
+        title = config.get('urltitle', 'title')
         '''
         判断配置文件设置浏览器的类型决定打开某浏览器
         '''
@@ -57,8 +62,14 @@ class BrowserEngine(object):
         logger.info('open url is %s' % url)
         driver.maximize_window()
         logger.info('maximize the current windows.')
-        driver.implicitly_wait(10)
-        logger.info('Set implicitly 10 seconds.')
+        try:
+            WebDriverWait(driver, timeout=10).until(EC.title_contains(title))
+            logger.info('open %s title success' % url)
+        except TimeoutException:
+            logger.info('oppen %s title error' % url)
+        except Exception as msg:
+            logger.info('Error:%s' % msg)
+
         return driver
 
     def quit_browser(self, driver):
