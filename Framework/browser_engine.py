@@ -21,6 +21,14 @@ class BrowserEngine(object):
     Chrome_driver_path = os.path.abspath('..') + '\\tools\chromedriver.exe'  # 获得chromedriver所在路径
     IE_driver_path = os.path.abspath('..') + '\\tools\Ie.exe'  # 获得IEdriver.exe所在路径
 
+    def __init__(self, driver):
+        '''
+        初始化 driver  此初始化可以省略
+        :param driver:
+        :return:
+        '''
+        self.driver = driver
+
     def open_browser(self, driver):
         '''
         读取配置文件获得其设置的url和browser
