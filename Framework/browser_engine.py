@@ -1,9 +1,7 @@
 import configparser
 from selenium import webdriver
 import os
-
 from selenium.common.exceptions import TimeoutException
-
 from Framework.logger import Logger
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -22,14 +20,6 @@ class BrowserEngine(object):
     Config_path = os.path.abspath('..') + '\Config\config.ini'  # 使用os.path.abspath可以获得上层目录
     Chrome_driver_path = os.path.abspath('..') + '\\tools\chromedriver.exe'  # 获得chromedriver所在路径
     IE_driver_path = os.path.abspath('..') + '\\tools\Ie.exe'  # 获得IEdriver.exe所在路径
-
-    def __init__(self, driver):
-        '''
-        初始化driver
-        :param driver:
-        :return:
-        '''
-        self.driver = driver
 
     def open_browser(self, driver):
         '''
@@ -64,12 +54,11 @@ class BrowserEngine(object):
         logger.info('maximize the current windows.')
         try:
             WebDriverWait(driver, timeout=10).until(EC.title_contains(title))
-            logger.info('open %s title success' % url)
+            logger.info('oppen %s title success' % url)
         except TimeoutException:
             logger.info('oppen %s title error' % url)
         except Exception as msg:
             logger.info('Error:%s' % msg)
-
         return driver
 
     def quit_browser(self, driver):
