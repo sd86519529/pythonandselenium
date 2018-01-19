@@ -8,7 +8,6 @@ class WkLogin(unittest.TestCase):
         self.browser = BrowserEngine(self)
         self.driver = self.browser.open_browser(self)
         self.login = WakaLoginPage(self.driver)
-        # self.login = WkLoginPage(self)
 
     def tearDown(self):
         self.browser.quit_browser(self.driver)
