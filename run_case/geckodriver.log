@@ -1,0 +1,610 @@
+1516434554794	geckodriver	INFO	geckodriver 0.19.1
+1516434554806	geckodriver	INFO	Listening on 127.0.0.1:60264
+1516434555342	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.6OZt0kMiraJE"
+1516434557020	Marionette	INFO	Enabled via --marionette
+[Child 947336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 947336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516434564215	Marionette	INFO	Listening on port 60269
+1516434564341	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516434564408	Marionette	DEBUG	Register listener.js for window 4294967297
+1516434564437	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516434564491	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516434564492	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516434564716	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.waka6.com/"
+JavaScript error: https://www.waka6.com/resources/js/css3-mediaqueries.js, line 370: TypeError: document.body is null
+1516434564721	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.waka6.com/"
+1516434565695	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/"
+1516434566129	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/"
+1516434569837	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.waka6.com/entrance/"
+1516434570697	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.waka6.com/entrance/"
+1516434570697	Marionette	DEBUG	Received DOM event "unload" for "http://www.waka6.com/entrance/"
+1516434570832	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/home"
+1516434570836	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/home"
+1516434570878	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.waka6.com/entrance/home"
+1516434570901	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.waka6.com/entrance/home"
+1516434570901	Marionette	DEBUG	Received DOM event "unload" for "http://www.waka6.com/entrance/home"
+1516434571054	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/"
+1516434571068	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/"
+1516434571236	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.waka6.com/entrance/"
+1516434571260	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.waka6.com/entrance/"
+1516434571261	Marionette	DEBUG	Received DOM event "unload" for "http://www.waka6.com/entrance/"
+1516434571411	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/login"
+1516434571419	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/login"
+1516434582400	geckodriver	INFO	geckodriver 0.19.1
+1516434582419	geckodriver	INFO	Listening on 127.0.0.1:60368
+1516434582939	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.pMpzYsRvXX7C"
+1516434584903	Marionette	INFO	Enabled via --marionette
+1516434589365	Marionette	INFO	Listening on port 60373
+1516434589400	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516434589479	Marionette	DEBUG	Register listener.js for window 4294967297
+1516434589519	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516434589619	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516434589619	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516434589842	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.waka6.com/"
+JavaScript error: https://www.waka6.com/resources/js/css3-mediaqueries.js, line 370: TypeError: document.body is null
+1516434589847	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.waka6.com/"
+1516434590641	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/"
+1516434590971	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/"
+1516434594694	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.waka6.com/entrance/"
+1516434595352	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.waka6.com/entrance/"
+1516434595352	Marionette	DEBUG	Received DOM event "unload" for "http://www.waka6.com/entrance/"
+1516434595509	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/login"
+1516434595526	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/login"
+1516434606438	geckodriver	INFO	geckodriver 0.19.1
+1516434606454	geckodriver	INFO	Listening on 127.0.0.1:60456
+1516434606964	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.gVzb06URkJYl"
+1516434608658	Marionette	INFO	Enabled via --marionette
+[Child 960220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 960220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516434612811	Marionette	INFO	Listening on port 60461
+1516434613364	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516434613476	Marionette	DEBUG	Register listener.js for window 4294967297
+1516434613503	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516434613562	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516434613563	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516434613792	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.waka6.com/"
+JavaScript error: https://www.waka6.com/resources/js/css3-mediaqueries.js, line 370: TypeError: document.body is null
+1516434613798	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.waka6.com/"
+1516434614602	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/"
+1516434614696	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/"
+1516434618417	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.waka6.com/entrance/"
+1516434619070	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.waka6.com/entrance/"
+1516434619070	Marionette	DEBUG	Received DOM event "unload" for "http://www.waka6.com/entrance/"
+1516434619214	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/login"
+1516434619229	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/login"
+1516435714441	geckodriver	INFO	geckodriver 0.19.1
+1516435714456	geckodriver	INFO	Listening on 127.0.0.1:60967
+1516435714992	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.eXH70f2S5789"
+1516435716738	Marionette	INFO	Enabled via --marionette
+[Child 962164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 962164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516435721144	Marionette	INFO	Listening on port 60973
+1516435721429	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516435721508	Marionette	DEBUG	Register listener.js for window 4294967297
+1516435721533	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516435721641	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516435721641	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516435721861	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.waka6.com/"
+JavaScript error: https://www.waka6.com/resources/js/css3-mediaqueries.js, line 370: TypeError: document.body is null
+1516435721875	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.waka6.com/"
+1516435722508	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/"
+1516435722871	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/"
+1516435727194	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.waka6.com/entrance/"
+1516435727247	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.waka6.com/entrance/"
+1516435727247	Marionette	DEBUG	Received DOM event "unload" for "http://www.waka6.com/entrance/"
+1516435727369	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/home"
+1516435727375	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/home"
+1516435727411	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.waka6.com/entrance/home"
+1516435727429	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.waka6.com/entrance/home"
+1516435727429	Marionette	DEBUG	Received DOM event "unload" for "http://www.waka6.com/entrance/home"
+1516435727553	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/"
+1516435727567	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/"
+1516435727724	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.waka6.com/entrance/"
+1516435727743	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.waka6.com/entrance/"
+1516435727743	Marionette	DEBUG	Received DOM event "unload" for "http://www.waka6.com/entrance/"
+1516435727876	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/login"
+1516435727892	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/login"
+1516435738598	geckodriver	INFO	geckodriver 0.19.1
+1516435738615	geckodriver	INFO	Listening on 127.0.0.1:61057
+1516435739137	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.z1IScubez6HU"
+1516435740248	Marionette	INFO	Enabled via --marionette
+[Child 961072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 961072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516435744723	Marionette	INFO	Listening on port 61062
+1516435745582	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516435745671	Marionette	DEBUG	Register listener.js for window 4294967297
+1516435745697	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516435745758	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516435745759	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516435745979	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.waka6.com/"
+JavaScript error: https://www.waka6.com/resources/js/css3-mediaqueries.js, line 370: TypeError: document.body is null
+1516435745986	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.waka6.com/"
+1516435746507	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/"
+1516435747545	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/"
+1516435751270	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.waka6.com/entrance/"
+1516435751955	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.waka6.com/entrance/"
+1516435751955	Marionette	DEBUG	Received DOM event "unload" for "http://www.waka6.com/entrance/"
+1516435752101	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/login"
+1516435752107	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/login"
+1516435763008	geckodriver	INFO	geckodriver 0.19.1
+1516435763031	geckodriver	INFO	Listening on 127.0.0.1:61131
+1516435763561	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.SWFtds2lsCGB"
+1516435764799	Marionette	INFO	Enabled via --marionette
+[Child 977964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 977964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516435768892	Marionette	INFO	Listening on port 61136
+1516435768917	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516435768992	Marionette	DEBUG	Register listener.js for window 4294967297
+1516435769026	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516435769090	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516435769091	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516435769353	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.waka6.com/"
+JavaScript error: https://www.waka6.com/resources/js/css3-mediaqueries.js, line 370: TypeError: document.body is null
+1516435769359	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.waka6.com/"
+1516435769911	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/"
+1516435770365	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/"
+1516435774053	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.waka6.com/entrance/"
+1516435774466	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.waka6.com/entrance/"
+1516435774466	Marionette	DEBUG	Received DOM event "unload" for "http://www.waka6.com/entrance/"
+1516435774618	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/login"
+1516435774634	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/login"
+1516436840784	geckodriver	INFO	geckodriver 0.19.1
+1516436840797	geckodriver	INFO	Listening on 127.0.0.1:61395
+1516436841362	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.NrBmtqJvMA1l"
+1516436842594	Marionette	INFO	Enabled via --marionette
+[Child 986664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 986664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516436846931	Marionette	INFO	Listening on port 61400
+1516436847773	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516436847861	Marionette	DEBUG	Register listener.js for window 4294967297
+1516436848041	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516436848099	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516436848099	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516436848337	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.waka6.com/"
+JavaScript error: https://www.waka6.com/resources/js/css3-mediaqueries.js, line 370: TypeError: document.body is null
+1516436848343	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.waka6.com/"
+1516436848810	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/"
+1516436849102	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/"
+1516436852786	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.waka6.com/entrance/"
+1516436853596	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.waka6.com/entrance/"
+1516436853596	Marionette	DEBUG	Received DOM event "unload" for "http://www.waka6.com/entrance/"
+1516436853721	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/home"
+1516436853791	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/home"
+1516436853825	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.waka6.com/entrance/home"
+1516436853851	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.waka6.com/entrance/home"
+1516436853851	Marionette	DEBUG	Received DOM event "unload" for "http://www.waka6.com/entrance/home"
+1516436853977	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/"
+1516436853982	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/"
+1516436854145	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.waka6.com/entrance/"
+1516436854170	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.waka6.com/entrance/"
+1516436854170	Marionette	DEBUG	Received DOM event "unload" for "http://www.waka6.com/entrance/"
+1516436854302	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/login"
+1516436854313	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/login"
+1516436865184	geckodriver	INFO	geckodriver 0.19.1
+1516436865200	geckodriver	INFO	Listening on 127.0.0.1:61478
+1516436865760	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.OiLzQn8IxsBq"
+1516436866848	Marionette	INFO	Enabled via --marionette
+1516436871319	Marionette	INFO	Listening on port 61483
+1516436872162	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516436872255	Marionette	DEBUG	Register listener.js for window 4294967297
+1516436872270	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516436872316	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516436872316	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516436872528	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.waka6.com/"
+JavaScript error: https://www.waka6.com/resources/js/css3-mediaqueries.js, line 370: TypeError: document.body is null
+1516436872532	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.waka6.com/"
+1516436873026	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/"
+1516436873468	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/"
+1516436877128	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.waka6.com/entrance/"
+1516436877848	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.waka6.com/entrance/"
+1516436877848	Marionette	DEBUG	Received DOM event "unload" for "http://www.waka6.com/entrance/"
+1516436877990	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/login"
+1516436878007	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/login"
+1516436889128	geckodriver	INFO	geckodriver 0.19.1
+1516436889143	geckodriver	INFO	Listening on 127.0.0.1:61549
+1516436889720	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.mBL6sgj0k3FE"
+1516436890921	Marionette	INFO	Enabled via --marionette
+[Child 1000104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1000104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516436895532	Marionette	INFO	Listening on port 61554
+1516436896113	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516436896202	Marionette	DEBUG	Register listener.js for window 4294967297
+1516436896216	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516436896309	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516436896309	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516436896561	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.waka6.com/"
+JavaScript error: https://www.waka6.com/resources/js/css3-mediaqueries.js, line 370: TypeError: document.body is null
+1516436896605	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.waka6.com/"
+1516436897149	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/"
+1516436897508	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/"
+1516436901291	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.waka6.com/entrance/"
+1516436901868	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.waka6.com/entrance/"
+1516436901869	Marionette	DEBUG	Received DOM event "unload" for "http://www.waka6.com/entrance/"
+1516436902013	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/login"
+1516436902026	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/login"
+1516437056894	geckodriver	INFO	geckodriver 0.19.1
+1516437056906	geckodriver	INFO	Listening on 127.0.0.1:61650
+1516437057444	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.z0b8gjYKr6RI"
+1516437058561	Marionette	INFO	Enabled via --marionette
+[Child 1002616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1002616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516437062771	Marionette	INFO	Listening on port 61656
+1516437063844	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516437063913	Marionette	DEBUG	Register listener.js for window 4294967297
+1516437063932	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516437063999	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516437064000	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516437064238	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.waka6.com/"
+JavaScript error: https://www.waka6.com/resources/js/css3-mediaqueries.js, line 370: TypeError: document.body is null
+1516437064243	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.waka6.com/"
+1516437064728	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/"
+1516437065066	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/"
+1516437068732	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.waka6.com/entrance/"
+1516437069562	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.waka6.com/entrance/"
+1516437069563	Marionette	DEBUG	Received DOM event "unload" for "http://www.waka6.com/entrance/"
+1516437069708	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/home"
+1516437069712	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/home"
+1516437069750	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.waka6.com/entrance/home"
+1516437069766	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.waka6.com/entrance/home"
+1516437069766	Marionette	DEBUG	Received DOM event "unload" for "http://www.waka6.com/entrance/home"
+1516437069897	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/"
+1516437069902	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/"
+1516437070078	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.waka6.com/entrance/"
+1516437070102	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.waka6.com/entrance/"
+1516437070102	Marionette	DEBUG	Received DOM event "unload" for "http://www.waka6.com/entrance/"
+1516437070239	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/login"
+1516437070251	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/login"
+1516437081140	geckodriver	INFO	geckodriver 0.19.1
+1516437081164	geckodriver	INFO	Listening on 127.0.0.1:61736
+1516437081732	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.480UurZUZybR"
+1516437082834	Marionette	INFO	Enabled via --marionette
+[Child 1009000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1009000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516437087208	Marionette	INFO	Listening on port 61741
+1516437088151	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516437088222	Marionette	DEBUG	Register listener.js for window 4294967297
+1516437088248	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516437088310	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516437088311	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516437088539	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.waka6.com/"
+JavaScript error: https://www.waka6.com/resources/js/css3-mediaqueries.js, line 370: TypeError: document.body is null
+1516437088544	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.waka6.com/"
+1516437089103	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/"
+1516437089427	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/"
+1516437093141	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.waka6.com/entrance/"
+1516437093777	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.waka6.com/entrance/"
+1516437093777	Marionette	DEBUG	Received DOM event "unload" for "http://www.waka6.com/entrance/"
+1516437093929	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/login"
+1516437093943	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/login"
+1516437105066	geckodriver	INFO	geckodriver 0.19.1
+1516437105080	geckodriver	INFO	Listening on 127.0.0.1:61807
+1516437105648	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.VPqdNUdHzNZq"
+1516437106634	Marionette	INFO	Enabled via --marionette
+[Child 1009100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516437111206	Marionette	INFO	Listening on port 61812
+1516437112036	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516437112104	Marionette	DEBUG	Register listener.js for window 4294967297
+1516437112118	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516437112156	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516437112156	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516437112390	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.waka6.com/"
+JavaScript error: https://www.waka6.com/resources/js/css3-mediaqueries.js, line 370: TypeError: document.body is null
+1516437112397	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.waka6.com/"
+1516437112693	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/"
+1516437113147	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/"
+1516437116861	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.waka6.com/entrance/"
+1516437117317	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.waka6.com/entrance/"
+1516437117318	Marionette	DEBUG	Received DOM event "unload" for "http://www.waka6.com/entrance/"
+1516437117456	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/login"
+1516437117461	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/login"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown[
+GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1516438154308	geckodriver	INFO	geckodriver 0.19.1
+1516438154322	geckodriver	INFO	Listening on 127.0.0.1:62220
+1516438154898	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.16RhLMr50lqp"
+1516438156174	Marionette	INFO	Enabled via --marionette
+[Child 1025412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1025412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516438161314	Marionette	INFO	Listening on port 62226
+1516438161807	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516438161879	Marionette	DEBUG	Register listener.js for window 4294967297
+1516438161897	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516438161980	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516438161980	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516438162246	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.waka6.com/"
+JavaScript error: https://www.waka6.com/resources/js/css3-mediaqueries.js, line 370: TypeError: document.body is null
+1516438162250	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.waka6.com/"
+1516438162961	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/"
+1516438163292	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/"
+1516438167026	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.waka6.com/entrance/"
+1516438167795	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.waka6.com/entrance/"
+1516438167796	Marionette	DEBUG	Received DOM event "unload" for "http://www.waka6.com/entrance/"
+1516438167923	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/home"
+1516438167930	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/home"
+1516438167965	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.waka6.com/entrance/home"
+1516438167982	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.waka6.com/entrance/home"
+1516438167982	Marionette	DEBUG	Received DOM event "unload" for "http://www.waka6.com/entrance/home"
+1516438168109	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/"
+1516438168117	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/"
+1516438168276	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.waka6.com/entrance/"
+1516438168298	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.waka6.com/entrance/"
+1516438168298	Marionette	DEBUG	Received DOM event "unload" for "http://www.waka6.com/entrance/"
+1516438168434	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/login"
+1516438168446	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/login"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+###!!! [Child][MessageChannel] Error: (msgtype=0x2400C1,name=PContent::Msg_GraphicsError) Channel closing: too late to send/recv, messages will be lost
+
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1516438179715	geckodriver	INFO	geckodriver 0.19.1
+1516438179735	geckodriver	INFO	Listening on 127.0.0.1:62312
+1516438180248	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.p4fstgMninSj"
+1516438181363	Marionette	INFO	Enabled via --marionette
+[Child 1024488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1024488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516438185833	Marionette	INFO	Listening on port 62317
+1516438186641	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516438186735	Marionette	DEBUG	Register listener.js for window 4294967297
+1516438186755	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516438186813	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516438186813	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516438187104	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.waka6.com/"
+JavaScript error: https://www.waka6.com/resources/js/css3-mediaqueries.js, line 370: TypeError: document.body is null
+1516438187110	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.waka6.com/"
+1516438187625	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/"
+1516438187842	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/"
+1516438191520	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.waka6.com/entrance/"
+1516438192062	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.waka6.com/entrance/"
+1516438192062	Marionette	DEBUG	Received DOM event "unload" for "http://www.waka6.com/entrance/"
+1516438192205	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/login"
+1516438192219	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/login"
+1516438203288	geckodriver	INFO	geckodriver 0.19.1
+1516438203304	geckodriver	INFO	Listening on 127.0.0.1:62392
+1516438203819	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.6eyJZ3PCpdJU"
+1516438205019	Marionette	INFO	Enabled via --marionette
+[Child 1014540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1014540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516438209588	Marionette	INFO	Listening on port 62399
+1516438210212	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516438210280	Marionette	DEBUG	Register listener.js for window 4294967297
+1516438210294	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516438210336	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516438210336	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516438210602	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.waka6.com/"
+JavaScript error: https://www.waka6.com/resources/js/css3-mediaqueries.js, line 370: TypeError: document.body is null
+1516438210606	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.waka6.com/"
+1516438210967	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/"
+1516438211346	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/"
+1516438215038	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.waka6.com/entrance/"
+1516438215552	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.waka6.com/entrance/"
+1516438215553	Marionette	DEBUG	Received DOM event "unload" for "http://www.waka6.com/entrance/"
+1516438215697	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/login"
+1516438215714	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/login"
+1516438600830	geckodriver	INFO	geckodriver 0.19.1
+1516438600843	geckodriver	INFO	Listening on 127.0.0.1:62587
+1516438601430	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.WNAXNx5NO9sK"
+1516438602560	Marionette	INFO	Enabled via --marionette
+[Child 1036472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516438606614	Marionette	INFO	Listening on port 62592
+1516438606719	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516438606792	Marionette	DEBUG	Register listener.js for window 4294967297
+1516438606835	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516438606911	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516438606913	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516438607187	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.waka6.com/"
+JavaScript error: https://www.waka6.com/resources/js/css3-mediaqueries.js, line 370: TypeError: document.body is null
+1516438607191	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.waka6.com/"
+1516438607738	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/"
+1516438607958	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/"
+1516438611689	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.waka6.com/entrance/"
+1516438612528	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.waka6.com/entrance/"
+1516438612529	Marionette	DEBUG	Received DOM event "unload" for "http://www.waka6.com/entrance/"
+1516438612661	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/home"
+1516438612665	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/home"
+1516438612705	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.waka6.com/entrance/home"
+1516438612718	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.waka6.com/entrance/home"
+1516438612718	Marionette	DEBUG	Received DOM event "unload" for "http://www.waka6.com/entrance/home"
+1516438612852	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/"
+1516438612863	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/"
+1516438613028	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.waka6.com/entrance/"
+1516438613051	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.waka6.com/entrance/"
+1516438613052	Marionette	DEBUG	Received DOM event "unload" for "http://www.waka6.com/entrance/"
+1516438613184	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/login"
+1516438613196	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/login"
+1516438624440	geckodriver	INFO	geckodriver 0.19.1
+1516438624457	geckodriver	INFO	Listening on 127.0.0.1:62673
+1516438624923	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.uNYMaqxIT3OQ"
+1516438626008	Marionette	INFO	Enabled via --marionette
+[Child 1041344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1041344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516438630316	Marionette	INFO	Listening on port 62678
+1516438631346	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516438631425	Marionette	DEBUG	Register listener.js for window 4294967297
+1516438631444	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516438631503	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516438631503	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516438631750	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.waka6.com/"
+JavaScript error: https://www.waka6.com/resources/js/css3-mediaqueries.js, line 370: TypeError: document.body is null
+1516438631754	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.waka6.com/"
+1516438632196	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/"
+1516438632515	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/"
+1516438636225	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.waka6.com/entrance/"
+1516438636725	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.waka6.com/entrance/"
+1516438636725	Marionette	DEBUG	Received DOM event "unload" for "http://www.waka6.com/entrance/"
+1516438636866	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/login"
+1516438636882	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/login"
+1516438647878	geckodriver	INFO	geckodriver 0.19.1
+1516438647908	geckodriver	INFO	Listening on 127.0.0.1:62746
+1516438648420	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.FeivubA5rhE8"
+1516438649659	Marionette	INFO	Enabled via --marionette
+[Child 1042248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1042248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516438654050	Marionette	INFO	Listening on port 62751
+1516438654860	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516438654941	Marionette	DEBUG	Register listener.js for window 4294967297
+1516438654962	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516438655016	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516438655025	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516438655309	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.waka6.com/"
+JavaScript error: https://www.waka6.com/resources/js/css3-mediaqueries.js, line 370: TypeError: document.body is null
+1516438655313	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.waka6.com/"
+1516438655727	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/"
+1516438656086	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/"
+1516438659769	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.waka6.com/entrance/"
+1516438660331	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.waka6.com/entrance/"
+1516438660331	Marionette	DEBUG	Received DOM event "unload" for "http://www.waka6.com/entrance/"
+1516438660478	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/login"
+1516438660497	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/login"
+1516439031424	geckodriver	INFO	geckodriver 0.19.1
+1516439031435	geckodriver	INFO	Listening on 127.0.0.1:62913
+1516439032003	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.EXVaQ1NpQs4d"
+1516439033122	Marionette	INFO	Enabled via --marionette
+1516439037380	Marionette	INFO	Listening on port 62919
+1516439038409	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516439038495	Marionette	DEBUG	Register listener.js for window 4294967297
+1516439038516	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516439038745	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516439038745	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516439038987	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.waka6.com/"
+JavaScript error: https://www.waka6.com/resources/js/css3-mediaqueries.js, line 370: TypeError: document.body is null
+1516439038992	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.waka6.com/"
+1516439039343	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/"
+1516439039754	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/"
+1516439043479	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.waka6.com/entrance/"
+1516439044339	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.waka6.com/entrance/"
+1516439044339	Marionette	DEBUG	Received DOM event "unload" for "http://www.waka6.com/entrance/"
+1516439044459	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/home"
+1516439044475	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/home"
+1516439044503	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.waka6.com/entrance/home"
+1516439044521	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.waka6.com/entrance/home"
+1516439044521	Marionette	DEBUG	Received DOM event "unload" for "http://www.waka6.com/entrance/home"
+1516439044645	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/"
+1516439044656	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/"
+1516439044828	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.waka6.com/entrance/"
+1516439044847	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.waka6.com/entrance/"
+1516439044847	Marionette	DEBUG	Received DOM event "unload" for "http://www.waka6.com/entrance/"
+1516439044976	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/login"
+1516439044986	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/login"
+1516439056162	geckodriver	INFO	geckodriver 0.19.1
+1516439056178	geckodriver	INFO	Listening on 127.0.0.1:63006
+1516439056742	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.FX0YfojtSLjH"
+1516439057834	Marionette	INFO	Enabled via --marionette
+[Child 1056364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1056364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516439062109	Marionette	INFO	Listening on port 63011
+1516439063136	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516439063222	Marionette	DEBUG	Register listener.js for window 4294967297
+1516439063239	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516439063293	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516439063293	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516439063546	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.waka6.com/"
+JavaScript error: https://www.waka6.com/resources/js/css3-mediaqueries.js, line 370: TypeError: document.body is null
+1516439063550	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.waka6.com/"
+1516439064009	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/"
+1516439064273	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/"
+1516439068052	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.waka6.com/entrance/"
+1516439068980	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.waka6.com/entrance/"
+1516439068981	Marionette	DEBUG	Received DOM event "unload" for "http://www.waka6.com/entrance/"
+1516439069134	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/login"
+1516439069142	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/login"
+1516439080346	geckodriver	INFO	geckodriver 0.19.1
+1516439080363	geckodriver	INFO	Listening on 127.0.0.1:63100
+1516439080854	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.sXj8R7f1lrG7"
+1516439082321	Marionette	INFO	Enabled via --marionette
+[Child 1053912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1053912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516439086637	Marionette	INFO	Listening on port 63105
+1516439087348	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516439087424	Marionette	DEBUG	Register listener.js for window 4294967297
+1516439087443	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516439087501	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516439087501	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516439087776	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.waka6.com/"
+JavaScript error: https://www.waka6.com/resources/js/css3-mediaqueries.js, line 370: TypeError: document.body is null
+1516439087781	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.waka6.com/"
+1516439088416	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/"
+1516439088570	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/"
+1516439092254	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.waka6.com/entrance/"
+1516439092759	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.waka6.com/entrance/"
+1516439092759	Marionette	DEBUG	Received DOM event "unload" for "http://www.waka6.com/entrance/"
+1516439092896	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/login"
+1516439092910	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/login"
+1516439330769	geckodriver	INFO	geckodriver 0.19.1
+1516439330781	geckodriver	INFO	Listening on 127.0.0.1:63240
+1516439331393	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.b5Lz5bDk9N67"
+1516439332634	Marionette	INFO	Enabled via --marionette
+[Child 1063612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1063612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516439337195	Marionette	INFO	Listening on port 63245
+1516439337781	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516439337866	Marionette	DEBUG	Register listener.js for window 4294967297
+1516439337888	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516439337944	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516439337945	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516439338204	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.waka6.com/"
+JavaScript error: https://www.waka6.com/resources/js/css3-mediaqueries.js, line 370: TypeError: document.body is null
+1516439338208	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.waka6.com/"
+1516439338730	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/"
+1516439338949	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/"
+1516439342644	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.waka6.com/entrance/"
+1516439343349	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.waka6.com/entrance/"
+1516439343349	Marionette	DEBUG	Received DOM event "unload" for "http://www.waka6.com/entrance/"
+1516439343486	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/home"
+1516439343490	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/home"
+1516439343528	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.waka6.com/entrance/home"
+1516439343543	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.waka6.com/entrance/home"
+1516439343543	Marionette	DEBUG	Received DOM event "unload" for "http://www.waka6.com/entrance/home"
+1516439343668	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/"
+1516439343683	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/"
+1516439343835	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.waka6.com/entrance/"
+1516439343853	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.waka6.com/entrance/"
+1516439343854	Marionette	DEBUG	Received DOM event "unload" for "http://www.waka6.com/entrance/"
+1516439343986	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/login"
+1516439343991	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/login"
+[Parent 1062860, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1063976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1063976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516439355429	geckodriver	INFO	geckodriver 0.19.1
+1516439355445	geckodriver	INFO	Listening on 127.0.0.1:63330
+1516439355966	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.D8rIJ8AjlUTt"
+1516439357230	Marionette	INFO	Enabled via --marionette
+[Child 1065016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1065016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516439361627	Marionette	INFO	Listening on port 63335
+1516439362378	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516439362458	Marionette	DEBUG	Register listener.js for window 4294967297
+1516439362480	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516439362551	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516439362552	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516439362812	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.waka6.com/"
+JavaScript error: https://www.waka6.com/resources/js/css3-mediaqueries.js, line 370: TypeError: document.body is null
+1516439362816	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.waka6.com/"
+1516439363347	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/"
+1516439363557	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/"
+1516439367235	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.waka6.com/entrance/"
+1516439367805	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.waka6.com/entrance/"
+1516439367805	Marionette	DEBUG	Received DOM event "unload" for "http://www.waka6.com/entrance/"
+1516439367947	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/login"
+1516439367956	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/login"
+1516439379033	geckodriver	INFO	geckodriver 0.19.1
+1516439379053	geckodriver	INFO	Listening on 127.0.0.1:63408
+1516439379566	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.Z4NfZCyYMdW3"
+1516439381035	Marionette	INFO	Enabled via --marionette
+[Child 1067084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1067084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516439385044	Marionette	INFO	Listening on port 63413
+1516439386028	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516439386124	Marionette	DEBUG	Register listener.js for window 4294967297
+1516439386143	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516439386190	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516439386191	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516439386459	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.waka6.com/"
+JavaScript error: https://www.waka6.com/resources/js/css3-mediaqueries.js, line 370: TypeError: document.body is null
+1516439386464	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.waka6.com/"
+1516439386993	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/"
+1516439387198	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/"
+1516439390927	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.waka6.com/entrance/"
+1516439391474	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.waka6.com/entrance/"
+1516439391474	Marionette	DEBUG	Received DOM event "unload" for "http://www.waka6.com/entrance/"
+1516439391626	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.waka6.com/entrance/login"
+1516439391638	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.waka6.com/entrance/login"

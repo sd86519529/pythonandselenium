@@ -22,7 +22,7 @@ class Logger(object):
         '''
         创建好logger后编辑log的储存路径，文件名以时间的形式避免重复
         '''
-        log_file = time.strftime('%Y%m%d%H%M%S') + '.log'
+        log_file = time.strftime('%Y%m%d.%H.%M.%S') + '.log'
         log_name = os.path.abspath('..') + '\logs\\' + log_file
 
         # 创建一个handler，用于输出到指定文件,并设置其日志等级

@@ -251,7 +251,7 @@ class BasePage(object):
         '''
         在这里我们把file_path这个参数写死，直接保存到我们项目根目录的一个文件夹里，.\Screenshots下
         '''
-        file_name = time.strftime('%Y%m%d%H%M%S')
+        file_name = time.strftime('%Y%m%d.%H.%M.%S')
         file_path = os.path.abspath('..') + '\Screenshots\\' + file_name + '.png'
         try:
             self.driver.get_screenshot_as_file(file_path)

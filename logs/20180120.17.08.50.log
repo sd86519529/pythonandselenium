@@ -1,0 +1,55 @@
+2018-01-20 17:08:50,727 - BrowserEngine - INFO - you select browser is Firefox
+2018-01-20 17:08:50,727 - BrowserEngine - INFO - you select URL is https://www.waka6.com
+2018-01-20 17:08:50,727 - BrowserEngine - INFO - Starting firefox browser
+2018-01-20 17:08:58,955 - BrowserEngine - INFO - open url is https://www.waka6.com
+2018-01-20 17:09:02,465 - BrowserEngine - INFO - maximize the current windows.
+2018-01-20 17:09:02,478 - BrowserEngine - INFO - oppen https://www.waka6.com title success
+2018-01-20 17:09:02,496 - BaseP - INFO - Positioning to the idusername element.
+2018-01-20 17:09:02,569 - BaseP - INFO - SendKeys 13968141450 in ('id', 'username') success.
+2018-01-20 17:09:02,577 - BaseP - INFO - Positioning to the idpassword element.
+2018-01-20 17:09:02,609 - BaseP - INFO - SendKeys 1111111 in ('id', 'password') success.
+2018-01-20 17:09:02,615 - BaseP - INFO - Positioning to the iddiv_login_btn element.
+2018-01-20 17:09:03,502 - BaseP - INFO - click success iddiv_login_btn element.
+2018-01-20 17:09:03,688 - BaseP - INFO - back driver!
+2018-01-20 17:09:03,693 - BaseP - INFO - Positioning to the idusername element.
+2018-01-20 17:09:03,727 - BaseP - INFO - SendKeys 111111 in ('id', 'username') success.
+2018-01-20 17:09:03,733 - BaseP - INFO - Positioning to the idpassword element.
+2018-01-20 17:09:03,766 - BaseP - INFO - SendKeys 111111 in ('id', 'password') success.
+2018-01-20 17:09:03,772 - BaseP - INFO - Positioning to the iddiv_login_btn element.
+2018-01-20 17:09:03,999 - BaseP - INFO - click success iddiv_login_btn element.
+2018-01-20 17:09:14,156 - BaseP - INFO - No location to the element.
+2018-01-20 17:09:14,157 - WkLogin - INFO - %%%%异常原因：False != True%%%%%
+2018-01-20 17:09:14,438 - BaseP - INFO - Had take screenshot and save to folder:/screenshots
+2018-01-20 17:09:14,438 - BrowserEngine - INFO - Now , Close the browser--------------------------------------------------
+2018-01-20 17:09:15,353 - BrowserEngine - INFO - you select browser is Firefox
+2018-01-20 17:09:15,353 - BrowserEngine - INFO - you select URL is https://www.waka6.com
+2018-01-20 17:09:15,354 - BrowserEngine - INFO - Starting firefox browser
+2018-01-20 17:09:23,561 - BrowserEngine - INFO - open url is https://www.waka6.com
+2018-01-20 17:09:27,075 - BrowserEngine - INFO - maximize the current windows.
+2018-01-20 17:09:27,084 - BrowserEngine - INFO - oppen https://www.waka6.com title success
+2018-01-20 17:09:27,100 - BaseP - INFO - Positioning to the idusername element.
+2018-01-20 17:09:27,162 - BaseP - INFO - SendKeys 555555 in ('id', 'username') success.
+2018-01-20 17:09:27,167 - BaseP - INFO - Positioning to the idpassword element.
+2018-01-20 17:09:27,205 - BaseP - INFO - SendKeys 777777 in ('id', 'password') success.
+2018-01-20 17:09:27,210 - BaseP - INFO - Positioning to the iddiv_login_btn element.
+2018-01-20 17:09:27,962 - BaseP - INFO - click success iddiv_login_btn element.
+2018-01-20 17:09:38,165 - BaseP - INFO - No location to the element.
+2018-01-20 17:09:38,165 - WkLoginone - INFO - %%%%异常原因：False != True%%%%%
+2018-01-20 17:09:38,373 - BaseP - INFO - Had take screenshot and save to folder:/screenshots
+2018-01-20 17:09:38,373 - BrowserEngine - INFO - Now , Close the browser--------------------------------------------------
+2018-01-20 17:09:38,901 - BrowserEngine - INFO - you select browser is Firefox
+2018-01-20 17:09:38,901 - BrowserEngine - INFO - you select URL is https://www.waka6.com
+2018-01-20 17:09:38,901 - BrowserEngine - INFO - Starting firefox browser
+2018-01-20 17:09:47,208 - BrowserEngine - INFO - open url is https://www.waka6.com
+2018-01-20 17:09:50,723 - BrowserEngine - INFO - maximize the current windows.
+2018-01-20 17:09:50,735 - BrowserEngine - INFO - oppen https://www.waka6.com title success
+2018-01-20 17:09:50,756 - BaseP - INFO - Positioning to the idusername element.
+2018-01-20 17:09:50,825 - BaseP - INFO - SendKeys SDFG in ('id', 'username') success.
+2018-01-20 17:09:50,832 - BaseP - INFO - Positioning to the idpassword element.
+2018-01-20 17:09:50,875 - BaseP - INFO - SendKeys ERTYUIOJHGF in ('id', 'password') success.
+2018-01-20 17:09:50,890 - BaseP - INFO - Positioning to the iddiv_login_btn element.
+2018-01-20 17:09:51,646 - BaseP - INFO - click success iddiv_login_btn element.
+2018-01-20 17:10:01,820 - BaseP - INFO - No location to the element.
+2018-01-20 17:10:01,820 - WkLoginone - INFO - %%%%异常原因：False != True%%%%%
+2018-01-20 17:10:02,101 - BaseP - INFO - Had take screenshot and save to folder:/screenshots
+2018-01-20 17:10:02,102 - BrowserEngine - INFO - Now , Close the browser--------------------------------------------------

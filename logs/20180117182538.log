@@ -1,7 +1,0 @@
-2018-01-17 18:25:38,721 - BrowserEngine - INFO - you select browser is Firefox
-2018-01-17 18:25:38,721 - BrowserEngine - INFO - you select URL is http://www.baidu.com
-2018-01-17 18:25:38,721 - BrowserEngine - INFO - Starting firefox browser
-2018-01-17 18:25:47,030 - BrowserEngine - INFO - open url is http://www.baidu.com
-2018-01-17 18:25:50,543 - BrowserEngine - INFO - maximize the current windows.
-2018-01-17 18:25:50,549 - BrowserEngine - INFO - Set implicitly 10 seconds.
-2018-01-17 18:25:51,738 - BrowserEngine - INFO - Now , Close the browser
