@@ -39,7 +39,7 @@ class BrowserEngine(object):
         logger.info('you select browser is %s' % browser)
         url = config.get('ServerType', 'URL')
         logger.info('you select URL is %s' % url)
-        title = config.get('urltitle', 'title')
+        title = config.get('UrlTitle', 'title')
         '''
         判断配置文件设置浏览器的类型决定打开某浏览器
         '''
